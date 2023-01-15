@@ -7,4 +7,4 @@ As you can see in the video demonstration, the Search page toolbar has been succ
 
 https://user-images.githubusercontent.com/50412448/212567823-ee8fc3d5-9598-4736-8366-56e55b07156b.mp4
 
-Please note that the video has been sped up to 1.25x due to performance issues with the Android emulator.
+ The video has been sped up to 1.25x due to performance issues with the Android emulator.
