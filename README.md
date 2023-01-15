@@ -1,7 +1,7 @@
 # 1735904
 1735904 Charge Station Map Application with HMS
 
-##Video Demonstration
+## Video Demonstration
 
 As you can see in the video demonstration, the Search page toolbar has been successfully implemented and the menu layout is displayed as intended. However, please note that the sign out functionality is not demonstrated in the video. This feature has been implemented in the code, but was not shown in the demonstration for the sake of brevity. 
 
