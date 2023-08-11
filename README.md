@@ -1,5 +1,4 @@
-# 1735904
-Charge Station Map Application with HMS
+# Charge Station Map Application with HMS
 
 ## Video Demonstration
 
